@@ -1,0 +1,184 @@
+h1{
+    font-family: 'Courier New', Courier, monospace ;
+}
+.head-name{
+    color: orangered;
+}
+.partone{
+    margin: 3%;
+    
+    
+}
+.hello{
+    padding-left: 80px;
+}
+.half-width{
+width: 40%;
+float: left;
+margin: 20px;
+padding: 5px;
+}
+.half-width img{
+    height: 500px;;
+}
+section{
+    
+    height: 600px;
+    margin-left: 100px;
+    
+
+
+}
+.my-facebook{
+    padding: 7px 5px;
+    font-size: 21px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color:orangered;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+    text-decoration: none;
+
+}
+.my-facebook:hover{
+    background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.partwo{
+    margin: 3%;
+    padding-left: 20px;
+    
+    
+}
+.myself{
+    margin-left: 20px;
+    padding: 30px 20px 30px 545px;
+}
+.partthree{
+    margin-top: 30px;
+    margin: 2%;
+    background-color: thistle;
+    float: left;
+    border: thistle solid 3px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.three{
+    text-align: center;
+    margin-top: 20px
+    ;
+    
+}
+.box{
+    float: left;
+    
+    width: 28%;
+    margin: 30px;
+
+
+}  
+
+.box img{
+   height: 250px;
+   width: 350px;
+}
+,back{
+    height: 600px;
+    width: 60%;
+    background-image: url(images/backgroun.png);
+}
+.last{
+    margin-top: 50px;
+    border: red;
+   border: white;
+   height: 700px;
+}
+.partfour{
+    text-align: center;
+    height: 500px;
+    
+}
+.backimage{
+    height: 150px;
+    will-change: 500px;
+    
+}
+.backimage img{
+height: 150px;
+width: 600px;
+position: relative;
+} 
+.imagestext{
+    text-align: center;
+    background-color: ;
+    position:absolute;
+}
+.work{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -87px;
+    font-size: 27px;
+    color: #ffff;
+
+}
+.chat{
+    position: absolute;
+    margin-left: 754px;
+    margin-top:-93px;
+    font-size: 24px;
+    color:rgb(31, 23, 23);
+    background-color:#FF8063;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+.heder{
+    float: ;
+    height:300px ;
+}
+.hedertext{
+    padding: 7px 5px;
+    font-size: 21px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color:rgb(89, 0, 255);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+    text-decoration: none;
+
+
+}
+.meno{
+    background-color: orchid;
+    text-align: left;
+    
+    height: 20px;
+    width: 500px;
+    float: left;
+
+}
+.meno:hover{
+    background-color: #3e8e41}
+.floter{
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    background-color: orchid;
+    margin-top: 120px;
+    
+
+}
